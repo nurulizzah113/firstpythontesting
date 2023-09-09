@@ -3,4 +3,4 @@ def hello():
 
 hello()
 
-print("This is a test project")
+print("This is a test project.")
