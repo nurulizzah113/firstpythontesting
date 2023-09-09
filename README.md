@@ -10,9 +10,9 @@ This is to be used to learn Git-based developemt
 
 # What you need
 
-*A laptop
-*An internet connection
-*Power supply
+* A laptop
+* An internet connection
+* Power supply
 
 # Additions
 
